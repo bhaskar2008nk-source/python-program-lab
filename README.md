@@ -1,2 +1,2 @@
 # python-program-lab
-Repository for Python lab programs (Program 1 & 2)
+Repository for Python lab programs (UNIT 1 & 2)
